@@ -1,3 +1,4 @@
-print('Hello, world!')
+print('Hello, word!')
 
-print ('Hei maaima!!')
+
+print ('Hei maailma!!')
